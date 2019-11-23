@@ -1,0 +1,73 @@
+--- kai.orig.ttx	2019-05-21 18:06:26.249867534 +0800
++++ kai.ttx	2019-05-21 14:36:30.061956465 +0800
+@@ -10470,43 +10470,43 @@
+       Copyright © 2012-2013, the Fandol team.
+     </namerecord>
+     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+-      FandolKai
++      Kai
+     </namerecord>
+     <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+       Regular
+     </namerecord>
+     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+-      1.300;ADBE;FandolKai-Regular
++      1.300;ADBE;Kai-Regular
+     </namerecord>
+     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+-      FandolKai
++      Kai
+     </namerecord>
+     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+       Version 1.300;PS 1;hotconv 1.0.81;makeotf.lib2.5.63406 DEVELOPMENT
+     </namerecord>
+     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+-      FandolKai-Regular
++      Kai-Regular
+     </namerecord>
+     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+       Copyright © 2012-2013, the Fandol team.
+     </namerecord>
+     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+-      FandolKai
++      Kai
+     </namerecord>
+     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+       Regular
+     </namerecord>
+     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+-      1.300;ADBE;FandolKai-Regular
++      1.300;ADBE;Kai-Regular
+     </namerecord>
+     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+-      FandolKai
++      Kai
+     </namerecord>
+     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+       Version 1.300;PS 1;hotconv 1.0.81;makeotf.lib2.5.63406 DEVELOPMENT
+     </namerecord>
+     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+-      FandolKai-Regular
++      Kai-Regular
+     </namerecord>
+     <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+       Project Fandol
+@@ -10526,6 +10526,18 @@
+     <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+       http://www.gnu.org/licenses/licenses.html
+     </namerecord>
++    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
++      楷体 Regular
++    </namerecord>
++    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
++      Regular
++    </namerecord>
++    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
++      楷体 Regular
++    </namerecord>
++    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x804">
++      楷体
++    </namerecord>
+   </name>
+ 
+   <cmap>

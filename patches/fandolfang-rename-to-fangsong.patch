@@ -1,0 +1,79 @@
+--- fangsong.orig.ttx	2019-05-21 18:06:48.756867027 +0800
++++ fangsong.ttx	2019-05-21 13:36:31.126037456 +0800
+@@ -10474,46 +10474,46 @@
+       Copyright © 2012-2013, the Fandol team.
+     </namerecord>
+     <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0" unicode="True">
+-      FandolFang R
++      FangSong
+     </namerecord>
+     <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0" unicode="True">
+       Regular
+     </namerecord>
+     <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
+-      1.300;ADBE;FandolFang-Regular
++      1.300;ADBE;FangSong-Regular
+     </namerecord>
+     <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
+-      FandolFang R
++      FangSong
+     </namerecord>
+     <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0" unicode="True">
+       Version 1.300;PS 1;hotconv 1.0.81;makeotf.lib2.5.63406 DEVELOPMENT
+     </namerecord>
+     <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
+-      FandolFang-Regular
++      FangSong-Regular
+     </namerecord>
+     <namerecord nameID="16" platformID="1" platEncID="0" langID="0x0" unicode="True">
+-      FandolFang
++      FangSong
+     </namerecord>
+     <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+       Copyright © 2012-2013, the Fandol team.
+     </namerecord>
+     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+-      FandolFang R
++      FangSong
+     </namerecord>
+     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+       Regular
+     </namerecord>
+     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+-      1.300;ADBE;FandolFang-Regular
++      1.300;ADBE;FangSong-Regular
+     </namerecord>
+     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+-      FandolFang R
++      FangSong
+     </namerecord>
+     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+       Version 1.300;PS 1;hotconv 1.0.81;makeotf.lib2.5.63406 DEVELOPMENT
+     </namerecord>
+     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+-      FandolFang-Regular
++      FangSong-Regular
+     </namerecord>
+     <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+       Project Fandol
+@@ -10534,7 +10534,19 @@
+       http://www.gnu.org/licenses/licenses.html
+     </namerecord>
+     <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+-      FandolFang
++      FangSong 
++    </namerecord>
++    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
++      仿宋体 Regular
++    </namerecord>
++    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
++      Regular
++    </namerecord>
++    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
++      仿宋体 Regular
++    </namerecord>
++    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x804">
++      仿宋体
+     </namerecord>
+   </name>
+ 

@@ -1,0 +1,18 @@
+--- hei.orig.ttx	2019-05-21 18:05:07.999869295 +0800
++++ hei.ttx	2019-05-21 16:55:35.623963191 +0800
+@@ -31061,12 +31061,12 @@
+ 
+   <hhea>
+     <tableVersion value="0x00010000"/>
+-    <ascent value="1160"/>
+-    <descent value="-288"/>
++    <ascent value="880"/>
++    <descent value="-120"/>
+     <lineGap value="0"/>
+     <advanceWidthMax value="3000"/>
+     <minLeftSideBearing value="-1002"/>
+-    <minRightSideBearing value="-551"/>
++    <minRightSideBearing value="-183"/>
+     <xMaxExtent value="2928"/>
+     <caretSlopeRise value="1"/>
+     <caretSlopeRun value="0"/>

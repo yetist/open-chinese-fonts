@@ -1,0 +1,45 @@
+--- song-bold.orig.ttx	2019-05-21 21:19:17.589607129 +0800
++++ song-bold.ttx	2019-05-21 21:20:22.013605679 +0800
+@@ -31047,22 +31047,22 @@
+       Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
+     </namerecord>
+     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+-      Source Han Serif CN
++      Song 
+     </namerecord>
+     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+       Bold
+     </namerecord>
+     <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+-      1.001;ADBO;SourceHanSerifCN-Bold;ADOBE
++      1.001;ADBO;Song-Bold;ADOBE
+     </namerecord>
+     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+-      Source Han Serif CN Bold
++      Song Bold
+     </namerecord>
+     <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+       Version 1.001;PS 1.001;hotconv 16.6.54;makeotf.lib2.5.65590
+     </namerecord>
+     <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+-      SourceHanSerifCN-Bold
++      Song-Bold
+     </namerecord>
+     <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+       Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+@@ -31086,13 +31086,13 @@
+       http://scripts.sil.org/OFL
+     </namerecord>
+     <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
+-      思源宋体 CN
++      宋体
+     </namerecord>
+     <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
+       Bold
+     </namerecord>
+     <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
+-      思源宋体 CN Bold
++      宋体 Bold
+     </namerecord>
+   </name>
+ 
