@@ -1,45 +1,47 @@
---- song.orig.ttx	2019-05-21 18:06:02.558868067 +0800
-+++ song.ttx	2019-05-21 13:38:21.082034982 +0800
-@@ -31047,22 +31047,22 @@
-       Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
+Index: hei-bold.ttx
+===================================================================
+--- a/hei-bold.ttx
++++ b/hei-bold.ttx
+@@ -65644,22 +65644,22 @@
+       © 2014-2019 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
      </namerecord>
      <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
--      Source Han Serif CN
-+      Song 
+-      Source Han Sans SC
++      Hei
      </namerecord>
      <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
-       Regular
+       Bold
      </namerecord>
      <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
--      1.001;ADBO;SourceHanSerifCN-Regular;ADOBE
-+      1.001;ADBO;Song-Regular;ADOBE
+-      2.001;ADBO;SourceHanSansSC-Bold;ADOBE
++      2.001;ADBO;Hei-Bold;ADOBE
      </namerecord>
      <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
--      Source Han Serif CN
-+      Song
+-      Source Han Sans SC Bold
++      Hei Bold
      </namerecord>
      <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-       Version 1.001;PS 1.001;hotconv 16.6.54;makeotf.lib2.5.65590
+       Version 2.001;hotconv 1.0.107;makeotfexe 2.5.65593
      </namerecord>
      <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
--      SourceHanSerifCN-Regular
-+      Song-Regular
+-      SourceHanSansSC-Bold
++      Hei-Bold
      </namerecord>
      <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
-       Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
-@@ -31086,13 +31086,13 @@
+       Source is a trademark of Adobe in the United States and/or other countries.
+@@ -65683,13 +65683,13 @@
        http://scripts.sil.org/OFL
      </namerecord>
      <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
--      思源宋体 CN
-+      宋体
+-      思源黑体
++      黑体
      </namerecord>
      <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
-       Regular
+       Bold
      </namerecord>
      <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
--      思源宋体 CN
-+      宋体
+-      思源黑体 Bold
++      黑体 Bold
      </namerecord>
    </name>
  

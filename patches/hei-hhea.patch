@@ -1,5 +1,5 @@
---- hei-bold.orig.ttx	2019-05-21 21:15:05.935612792 +0800
-+++ hei-bold.ttx	2019-05-21 21:26:56.103596810 +0800
+--- a/hei.ttx	2019-05-21 18:05:07.999869295 +0800
++++ b/hei.ttx	2019-05-21 16:55:35.623963191 +0800
 @@ -31061,12 +31061,12 @@
  
    <hhea>
@@ -10,9 +10,9 @@
 +    <descent value="-120"/>
      <lineGap value="0"/>
      <advanceWidthMax value="3000"/>
-     <minLeftSideBearing value="-1013"/>
--    <minRightSideBearing value="-584"/>
-+    <minRightSideBearing value="-194"/>
-     <xMaxExtent value="2926"/>
+     <minLeftSideBearing value="-1002"/>
+-    <minRightSideBearing value="-551"/>
++    <minRightSideBearing value="-183"/>
+     <xMaxExtent value="2928"/>
      <caretSlopeRise value="1"/>
      <caretSlopeRun value="0"/>

@@ -1,5 +1,5 @@
---- fangsong.orig.ttx	2019-05-21 18:06:48.756867027 +0800
-+++ fangsong.ttx	2019-05-21 13:36:31.126037456 +0800
+--- a/fangsong.ttx	2019-05-21 18:06:48.756867027 +0800
++++ b/fangsong.ttx	2019-05-21 13:36:31.126037456 +0800
 @@ -10474,46 +10474,46 @@
        Copyright © 2012-2013, the Fandol team.
      </namerecord>
@@ -12,7 +12,7 @@
      </namerecord>
      <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0" unicode="True">
 -      1.300;ADBE;FandolFang-Regular
-+      1.300;ADBE;FangSong-Regular
++      1.300;ADBE;FangSong
      </namerecord>
      <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0" unicode="True">
 -      FandolFang R
@@ -23,7 +23,7 @@
      </namerecord>
      <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0" unicode="True">
 -      FandolFang-Regular
-+      FangSong-Regular
++      FangSong
      </namerecord>
      <namerecord nameID="16" platformID="1" platEncID="0" langID="0x0" unicode="True">
 -      FandolFang
@@ -41,7 +41,7 @@
      </namerecord>
      <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
 -      1.300;ADBE;FandolFang-Regular
-+      1.300;ADBE;FangSong-Regular
++      1.300;ADBE;FangSong
      </namerecord>
      <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
 -      FandolFang R
@@ -52,7 +52,7 @@
      </namerecord>
      <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
 -      FandolFang-Regular
-+      FangSong-Regular
++      FangSong
      </namerecord>
      <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
        Project Fandol
@@ -61,19 +61,19 @@
      </namerecord>
      <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
 -      FandolFang
-+      FangSong 
++      FangSong
 +    </namerecord>
 +    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
-+      仿宋体 Regular
++      仿宋
 +    </namerecord>
 +    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
 +      Regular
 +    </namerecord>
 +    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
-+      仿宋体 Regular
++      仿宋
 +    </namerecord>
 +    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x804">
-+      仿宋体
++      仿宋
      </namerecord>
    </name>
  

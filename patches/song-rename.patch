@@ -1,45 +1,47 @@
---- hei.orig.ttx	2019-05-21 18:05:07.999869295 +0800
-+++ hei.ttx	2019-05-21 16:55:35.623963191 +0800
-@@ -31142,22 +31142,22 @@
-       © 2014-2019 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'.
+Index: song.ttx
+===================================================================
+--- a/song.ttx
++++ b/song.ttx
+@@ -65644,22 +65644,22 @@
+       Copyright © 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'.
      </namerecord>
      <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
--      Source Han Sans CN
-+      Hei 
+-      Source Han Serif SC
++      Song
      </namerecord>
      <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
        Regular
      </namerecord>
      <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
--      2.001;ADBO;SourceHanSansCN-Regular;ADOBE
-+      2.001;ADBO;Hei;ADOBE
+-      1.001;ADBO;SourceHanSerifSC-Regular;ADOBE
++      1.001;ADBO;Song-Regular;ADOBE
      </namerecord>
      <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
--      Source Han Sans CN
-+      Hei 
+-      Source Han Serif SC
++      Song
      </namerecord>
      <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
-       Version 2.001;hotconv 1.0.107;makeotfexe 2.5.65593
+       Version 1.001;PS 1.001;hotconv 16.6.54;makeotf.lib2.5.65590
      </namerecord>
      <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
--      SourceHanSansCN-Regular
-+      Hei-Regular
+-      SourceHanSerifSC-Regular
++      Song-Regular
      </namerecord>
      <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
-       Source is a trademark of Adobe in the United States and/or other countries.
-@@ -31181,13 +31181,13 @@
+       Source is a trademark of Adobe Systems Incorporated in the United States and/or other countries.
+@@ -65683,13 +65683,13 @@
        http://scripts.sil.org/OFL
      </namerecord>
      <namerecord nameID="1" platformID="3" platEncID="1" langID="0x804">
--      思源黑体 CN
-+      黑体
+-      思源宋体
++      宋体
      </namerecord>
      <namerecord nameID="2" platformID="3" platEncID="1" langID="0x804">
        Regular
      </namerecord>
      <namerecord nameID="4" platformID="3" platEncID="1" langID="0x804">
--      思源黑体 CN
-+      黑体
+-      思源宋体
++      宋体
      </namerecord>
    </name>
  
