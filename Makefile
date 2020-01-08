@@ -1,5 +1,6 @@
 NAME = open-chinese-fonts
 VERSION = $(shell date +%Y%m%d)
+DISTDIR = $(NAME)-$(VERSION)
 
 all: song.ttf kai.ttf fangsong.ttf hei.ttf song-bold.ttf hei-bold.ttf
 
@@ -42,13 +43,14 @@ hei-bold.ttf: raw/SourceHanSansSC-Bold.otf
 	python scripts/otf2ttf.py --overwrite hei-bold.otf
 
 dist: song.ttf kai.ttf fangsong.ttf hei.ttf song-bold.ttf hei-bold.ttf
-	rm -rf $(NAME)
-	mkdir -p $(NAME)/{conf,fonts}
-	cp conf/*.conf $(NAME)/conf
-	cp *.ttf $(NAME)/fonts
-	tar -Jcf $(NAME)-$(VERSION).tar.xz $(NAME)
-	sha256sum $(NAME)-$(VERSION).tar.xz > $(NAME)-$(VERSION).tar.xz.sha256
-	rm -rf $(NAME)
+	rm -rf $(DISTDIR)
+	mkdir -p $(DISTDIR)/fonts
+	cp -r conf/ licenses/ $(DISTDIR)/
+	cp *.ttf $(DISTDIR)/fonts
+	cp scripts/makefile $(DISTDIR)/Makefile
+	tar -Jcf $(DISTDIR).tar.xz $(DISTDIR)
+	sha256sum $(DISTDIR).tar.xz > $(DISTDIR).tar.xz.sha256
+	rm -rf $(DISTDIR)
 
 clean:
 	rm -f *.ttx *.otf *.otf
